@@ -2,6 +2,8 @@
 
 A small, reusable reference dataset and exact-match lookup for replacement filter kits used by selected Shark Navigator upright vacuums.
 
+The 2026-09-20 aligned release covers all 68 models in the companion site lists: 51 in `XFF350 + XHF350` and 17 in `XFF500 + XHF500`.
+
 ## What is included
 
 - `data/shark-navigator-filter-compatibility.csv`: one model-to-kit mapping per row.
